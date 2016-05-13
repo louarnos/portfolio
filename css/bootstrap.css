@@ -1632,6 +1632,9 @@ pre code {
 .col-xs-11 {
   width: 91.66666667%;
 }
+.timeline-image > a {
+  color: white;
+}
 .col-xs-10 {
   width: 83.33333333%;
 }
